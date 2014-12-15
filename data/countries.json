@@ -1,0 +1,22 @@
+[{
+    'name': 'England',
+    'code': 'gb'
+}, {
+    'name': 'Sweden',
+    'code': 'se'
+}, {
+    'name': 'United Stated',
+    'code': 'us'
+}, {
+    'name': 'Denmark',
+    'code': 'dk'
+}, {
+    'name': 'Norway',
+    'code': 'no'
+}, {
+    'name': 'Germany',
+    'code': 'de'
+}, {
+    'name': 'Canada',
+    'code': 'ca'
+}]

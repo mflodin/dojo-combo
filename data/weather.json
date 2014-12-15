@@ -1,0 +1,54 @@
+{
+    "coord": {
+        "lon": -0.13,
+        "lat": 51.51
+    },
+    "sys": {
+        "type": 1,
+        "id": 5091,
+        "message": 3.4642,
+        "country": "GB",
+        "sunrise": 1411105356,
+        "sunset": 1411149938
+    },
+    "weather": [{
+        "id": 741,
+        "main": "Fog",
+        "description": "fog",
+        "icon": "50n"
+    }, {
+        "id": 701,
+        "main": "Mist",
+        "description": "mist",
+        "icon": "50n"
+    }, {
+        "id": 721,
+        "main": "Haze",
+        "description": "haze",
+        "icon": "50n"
+    }, {
+        "id": 211,
+        "main": "Thunderstorm",
+        "description": "proximity thunderstorm",
+        "icon": "11n"
+    }],
+    "base": "cmc stations",
+    "main": {
+        "temp": 290.45,
+        "pressure": 1013,
+        "humidity": 100,
+        "temp_min": 289.15,
+        "temp_max": 291.55
+    },
+    "wind": {
+        "speed": 3.6,
+        "deg": 70
+    },
+    "clouds": {
+        "all": 8
+    },
+    "dt": 1411164003,
+    "id": 2643743,
+    "name": "London",
+    "cod": 200
+}

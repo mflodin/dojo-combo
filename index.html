@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Weather</title>
+    <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="//static.scania.com/vendors/frameworks/dbootstrap/0.1.0/css/dbootstrap.css">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+
+    <script>
+    var dojoConfig = {
+        tlmSiblingOfDojo: false,
+        packages: [{
+            name: "app",
+            location: "/app",
+            main: "main"
+        }]
+    };
+    </script>
+    <script data-dojo-config="async: true, isDebug:true" src="//ajax.googleapis.com/ajax/libs/dojo/1.9.3/dojo/dojo.js"></script>
+
+</head>
+
+<body class="bootstrap dbootstrap">
+    <div id="header" class="header text-center"></div>
+    <div id="main" class="container"></div>
+    <script src="app/main.js"></script>
+</body>
+
+</html>

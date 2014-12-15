@@ -1,0 +1,7 @@
+body {
+	padding: 2rem;
+}
+.weather-display {
+	max-width: 40rem;
+	margin-top: 2rem;
+}
